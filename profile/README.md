@@ -1,4 +1,4 @@
-![Ton nouveau terrain de jeu musical](https://github.com/musyapp/.github/raw/master/musy-banner-gradende.png)
+![Ton nouveau terrain de jeu musical](https://github.com/musy-app/.github/raw/master/musy-banner-gradende.jpg)
 
 ### Description
 
