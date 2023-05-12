@@ -1,4 +1,4 @@
-![Ton nouveau terrain de jeu musical](https://github.com/musy-app/.github/raw/master/musy-banner-primary.jpg)
+![Ton nouveau terrain de jeu musical](https://github.com/musy-app/.github/raw/master/musy-banner-primary.png)
 
 ### Description
 
