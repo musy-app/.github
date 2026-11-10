@@ -1,10 +1,8 @@
-![Ton nouveau terrain de jeu musical](https://github.com/musy-app/.github/raw/master/musy-banner-primary.png)
+![MUSY, le blindtest entre potes](docs/assets/brand/musy-banner-primary.jpg)
 
-### Description
+# MUSY
 
-**[Musy](https://musy.app/)** est un jeu en ligne innovant sur le thème de la **musique**, nous proposons des **blindtests**, des questions de **culture musicale** mettant en compétitions les joueurs, et d'autres mini-jeux.
-
-> De **l'actualité musicale**, du **vlogging** et des **interviews** sont sur notre [chaine Youtube](https://youtube.com/@musyapp).
+Blindtest musical multijoueur dans le navigateur. Architecture distribuée et événementielle sur Redis Streams : moteur de salles en Rust, tout le reste en TypeScript.
 
 Nos réseaux :
 
