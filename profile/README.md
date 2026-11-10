@@ -1,4 +1,4 @@
-![MUSY, le blindtest entre potes](docs/assets/brand/musy-banner-primary.jpg)
+![MUSY, le blindtest entre potes](https://github.com/musy-app/musy/blob/a63e5e25e6960f8a8f924c7fcaae220cb0863998/docs/assets/brand/musy-banner-primary.jpg)
 
 # MUSY
 
